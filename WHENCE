@@ -1,0 +1,10 @@
+Driver: btrtl - Bluetooth support for Realtek devices
+
+File: rtl_bt/rtl8723cs_xx_config-pinebook.bin
+File: rtl_bt/rtl8723cs_xx_fw.bin
+File: rtl_bt/rtl8723bs_config-pine64.bin
+File: rtl_bt/rtl8723bs_config.bin
+
+Licence: Redistributable. See LICENCE.rtlwifi_firmware.txt for details
+
+Found in armbian firmware, see https://github.com/armbian/firmware
